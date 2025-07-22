@@ -1,4 +1,7 @@
 streamlit
 yfinance
-pandas_ta
-matplotlib
+pandas
+numpy==1.26.4
+pandas_ta==0.3.14b0 # 或你使用的 pandas_ta 版本
+setuptools
+matplotlib==3.8.4 # <-- 添加或修改這一行
